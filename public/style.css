@@ -1,0 +1,25 @@
+.form {
+  margin: auto;
+  padding: 10px;
+  border: 1px #ccc solid;
+  align-items: center;
+  background-color: orangered;
+  align-items: center;
+}
+
+#from {
+  /* flex: 1; */
+  width: 20%;
+  height: 30px;
+}
+
+#to {
+  /* flex: 1; */
+  width: 20%;
+  height: 30px;
+}
+
+button {
+  /* flex: 1; */
+  width: 20%;
+}
